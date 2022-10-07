@@ -35,3 +35,13 @@ In your terminal/cmd type this command:
 > git clone https://github.com/mbahmodin/UF896_V1.1-dump.git
 ```
 Then right click the `UF896_v1.1.7z.001` then click `7-zip` > `Extract Here`
+
+## Device Photos
+<details close>
+<summary>What the device look like at the back</summary>
+<br>
+
+![The back of the Device](https://user-images.githubusercontent.com/85983303/194507061-f0dc4f1a-0641-49d4-8d2f-0401074225b4.jpeg)
+
+</details>
+
